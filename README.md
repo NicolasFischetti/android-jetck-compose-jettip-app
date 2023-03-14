@@ -1,1 +1,1 @@
-# android-jetck-compose-jettip-app
+# android-jetpack-compose-jettip-app
